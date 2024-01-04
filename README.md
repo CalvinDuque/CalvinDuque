@@ -1,6 +1,7 @@
 Sejam bem-vindos(a) ao meu repositório do Github! 💻
 ----
   Aqui você vai encontrar um pouco da minha experiencia em Front End, alguns códigos como HTML, CSS e JS. 
+  
   Que hoje não são meu foco principal, sendo ele a produção de conteúdo em Java, Python e Banco de Dados.
 
   Compartilho exemplo de códigos, refletindo minha paixão por desenvolver software eficiente, escalável e de qualidade.
