@@ -29,6 +29,7 @@ O foco principal da minha carreira esta sendo no setor de Qualidade e Teste de S
 ----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logo)](https://www.linkedin.com/in/calvinduque/)
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/CalvinDuque)
 
 
 <!--
